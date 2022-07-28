@@ -18,12 +18,6 @@ export default {
 </script>
 
 <style>
-main {
-  background-color: #ECF3FB;
-}
-a {
-  text-decoration: none;
-}
 :root {
   --title-color: #171717;
   --text-color: #333333;
@@ -32,6 +26,12 @@ a {
   --active-black-color:#606060;
   --white-color: #ffffff;
   --input-color: #F1F4F8;
+}
+main {
+  background-color: #ECF3FB;
+}
+a {
+  text-decoration: none;
 }
 body {
   margin: 0;
